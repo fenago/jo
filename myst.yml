@@ -1,0 +1,24 @@
+# MyST configuration for No Tomorrow 
+version: 1
+
+project:
+  title: "No Tomorrow "
+  description: "Live life as if each day is your last ,motivational sounding "
+  authors:
+    - name: "Jeremiah O'bryant"
+
+
+
+
+site:
+  template: book-theme
+  title: "No Tomorrow "
+  nav:
+    - file: chapters/chapter-1
+    - file: chapters/chapter-2
+    - file: chapters/chapter-3
+    - file: chapters/chapter-4
+    - file: chapters/chapter-5
+    - file: chapters/chapter-6
+    - file: chapters/chapter-7
+    - file: chapters/chapter-8
